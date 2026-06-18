@@ -1,6 +1,6 @@
 {
-  "name": "SURTECHNIK Facturación",
-  "short_name": "SURTECHNIK",
+  "name": "FACTURACION",
+  "short_name": "FACTURACION",
   "description": "Sistema de facturación, gastos, clientes y proveedores de SURTECHNIK.",
   "start_url": "./index.html",
   "scope": "./",
